@@ -778,6 +778,7 @@ section {
   }
   .contact-content {
     flex-direction: column;
+    padding-bottom: 7rem;
   }
   .contact-content .right-contact {
     margin-left: 0;
@@ -870,8 +871,8 @@ section {
     padding-bottom: 7rem;
   }
   .contact-content {
-    padding-bottom: 6rem;
     flex-direction: column;
+    padding-bottom: 7rem;
   }
   .contact-content .right-contact {
     margin-left: 0;
